@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="50735" started-at="2017-05-11T07:53:55Z" finished-at="2017-05-11T07:54:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="50735" started-at="2017-05-11T07:53:55Z" finished-at="2017-05-11T07:54:45Z">
+      <class name="com.linkedin.testcases.LinkedinHomeTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.linkedin.testcases.LinkedinHomeTest@50c87b21]" name="setup" is-config="true" duration-ms="29390" started-at="2017-05-11T13:23:55Z" finished-at="2017-05-11T13:24:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="checkValidSerachResult()[pri:0, instance:com.linkedin.testcases.LinkedinHomeTest@50c87b21]" name="checkValidSerachResult" duration-ms="3234" started-at="2017-05-11T13:24:24Z" finished-at="2017-05-11T13:24:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkValidSerachResult -->
+        <test-method status="PASS" signature="checkValidUser()[pri:0, instance:com.linkedin.testcases.LinkedinHomeTest@50c87b21]" name="checkValidUser" duration-ms="14139" started-at="2017-05-11T13:24:27Z" finished-at="2017-05-11T13:24:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkValidUser -->
+        <test-method status="PASS" signature="checkvalidSignup()[pri:0, instance:com.linkedin.testcases.LinkedinHomeTest@50c87b21]" name="checkvalidSignup" duration-ms="3917" started-at="2017-05-11T13:24:42Z" finished-at="2017-05-11T13:24:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkvalidSignup -->
+      </class> <!-- com.linkedin.testcases.LinkedinHomeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

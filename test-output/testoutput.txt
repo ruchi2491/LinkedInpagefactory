@@ -1,0 +1,23 @@
+[TestNG] Running:
+  C:\Users\ruchira.more\AppData\Local\Temp\testng-eclipse-685500531\testng-customsuite.xml
+
+PASSED: validateHomePageTitle
+PASSED: verifyValidLogin
+
+===============================================
+    Default test
+    Tests run: 2, Failures: 0, Skips: 0
+===============================================
+
+
+===============================================
+Default suite
+Total tests run: 2, Failures: 0, Skips: 0
+===============================================
+
+[TestNG] Time taken by org.testng.reporters.EmailableReporter@1b0375b3: 76 ms
+[TestNG] Time taken by [FailedReporter passed=0 failed=0 skipped=0]: 0 ms
+[TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@1fbc7afb: 149 ms
+[TestNG] Time taken by org.testng.reporters.XMLReporter@56cbfb61: 18 ms
+[TestNG] Time taken by org.testng.reporters.jq.Main@7cf10a6f: 141 ms
+[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6b71769e: 7 ms

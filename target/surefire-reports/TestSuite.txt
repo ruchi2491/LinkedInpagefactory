@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 63.997 sec <<< FAILURE!
+checkValidSearchResult(com.linkedin.testcases.LinkedinHomeTest)  Time elapsed: 0.015 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.linkedin.testcases.LinkedinHomeTest.checkValidSearchResult(LinkedinHomeTest.java:34)
+
+checkValidUser(com.linkedin.testcases.LinkedinHomeTest)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.linkedin.testcases.LinkedinHomeTest.checkValidUser(LinkedinHomeTest.java:19)
+
+checkvalidSignup(com.linkedin.testcases.LinkedinHomeTest)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.linkedin.testcases.LinkedinHomeTest.checkvalidSignup(LinkedinHomeTest.java:48)
+

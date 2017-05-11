@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Command line suite]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="com.linkedin.testcases.BaseTest">
+        <methods>
+          <include name="close"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.linkedin.testcases.BaseTest -->
+      <class name="com.linkedin.testcases.LinkedinHomeTest">
+        <methods>
+          <include name="checkValidUser"/>
+          <include name="checkvalidSignup"/>
+          <include name="checkValidSearchResult"/>
+        </methods>
+      </class> <!-- com.linkedin.testcases.LinkedinHomeTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [Command line suite] -->
